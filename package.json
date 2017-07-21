@@ -1,0 +1,23 @@
+{
+  "name": "online-store",
+  "version": "1.0.0",
+  "description": "online store",
+  "main": "src/main.js",
+  "dependencies": {
+    "vue": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pure-js/online-store.git"
+  },
+  "author": "pure-js",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/pure-js/online-store/issues"
+  },
+  "homepage": "https://github.com/pure-js/online-store#readme"
+}
