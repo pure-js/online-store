@@ -1,2 +1,5 @@
-# online-store
-Online store
+# Online store
+## Run project
+```
+npm start
+```
