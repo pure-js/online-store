@@ -4,3 +4,7 @@ bower_components/
 
 build/
 dist/
+
+# IntelliJ Platform
+.idea/workspace.xml
+.idea/tasks.xml
