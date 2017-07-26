@@ -1,5 +1,6 @@
-const template  = require('../index.pug');
-
-const locals = { /* ... */ };
-
-const html = template(locals);
+let app = new Vue({
+  el: '#app',
+  data: {
+    message: 'Hello Vue!'
+  }
+});
